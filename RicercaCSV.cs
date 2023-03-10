@@ -1,6 +1,6 @@
 ﻿namespace RicercaCSV
 {
-    internal class Program
+    internal class MainClass
     {
         static void Main(string[] args)
         {
